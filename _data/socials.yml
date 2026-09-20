@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/Sourabh_Bhosale__CV.pdf # path to your CV PDF file
 email: sourabhrbhosale03@gmail.com # your email address
 github_username: SourabhBhosale2560 # your GitHub username
 linkedin_username: sourabhrbhosale
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+# inspirehep_id: 1010907 # Inspire HEP author ID
+# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: cYl1BzUAAAAJ # your Google Scholar ID
 
