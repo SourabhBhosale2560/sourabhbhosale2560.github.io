@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a recent graduate of [MIT-WPU](https://mitwpu.edu.in/), Pune (B.Tech, Electronics and Communication Engineering) and a Research Intern at the [Robotics Research Center, IIIT Hyderabad](https://robotics.iiit.ac.in/), advised by [Dr. Spandan Roy](https://scholar.google.com/citations?user=tUKoUgMAAAAJ&hl=en). I work on dexterous manipulation, teaching robots to infer contact and grasp objects from just RGB cameras and proprioception.
+I am a recent graduate of [MIT-WPU](https://mitwpu.edu.in/), Pune (B.Tech, Electronics and Communication Engineering) and a Research Intern at the [Robotics Research Center, IIIT Hyderabad](https://robotics.iiit.ac.in/), advised by [Dr. Spandan Roy](https://scholar.google.com/citations?user=tUKoUgMAAAAJ&hl=en). I work on dexterous manipulation, teaching robots to infer contact and grasp objects from just RGB cameras and proprioception.
 
 Before this, I competed in ABU Robocon, where I led my [team](https://www.youtube.com/watch?v=9kkgwjXrWwE) in designing and building complete competition robots from scratch each season, across mechanical design, custom electronics, firmware, motor control, and autonomy.
 
-Outside of research, I read books, shoot urban-wildlife photography, run the occasional marathon, and am an amateur audiophile.
+Outside of research, I read books, run the occasional marathon, and I am an amateur audiophile.
