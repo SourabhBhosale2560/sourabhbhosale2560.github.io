@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Intern at the <a href='https://robotics.iiit.ac.in/'>Robotics Research Center, IIIT Hyderabad</a>
 
 profile:
   align: right
@@ -25,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a recent graduate of [MIT-WPU](https://mitwpu.edu.in/), Pune, with a B.Tech in Electronics and Communication Engineering. I'm currently a Research Intern at the [Robotics Research Center, IIIT Hyderabad](https://robotics.iiit.ac.in/), advised by [Dr. Spandan Roy](https://scholar.google.com/citations?user=tUKoUgMAAAAJ&hl=en).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+What draws me to robotics is how effortlessly humans manipulate objects by feel. We sense contact, adjust our grip, and turn things over in our hands without ever looking, and I want to understand how robots can do the same. My research looks at what a robot can infer about its physical interaction with objects, things like contact states, geometry, and spatial relationships, from nothing more than RGB cameras and proprioception, and how that understanding can lead to better manipulation on real hardware.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Right now I'm working on contact estimation as a pseudo-tactile signal for dexterous manipulation, and on grasping policies that stay reliable even when the camera viewpoint is uncalibrated, both tested on physical robots.
+
+I'm also increasingly drawn to aerial manipulation, which is essentially manipulation without a fixed base. When the platform itself is floating and moving, grasping demands a whole new level of precision and control, and I find that challenge fascinating.
+
+Always happy to collaborate or talk robotics. Feel free to reach out over email.
