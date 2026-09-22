@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[MIT Tech Team](https://www.robocon.in/) wins AIR 2 at DD Robocon 2026.
+[MIT Tech Team](https://www.robocon.in/) wins AIR 2 at [DD Robocon 2026](https://youtu.be/fpvcSL-6H0I?si=yHAk0pEvmtqlU-vj&t=89).
