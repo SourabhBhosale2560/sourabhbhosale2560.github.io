@@ -25,12 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a recent graduate of [MIT-WPU](https://mitwpu.edu.in/), Pune, with a B.Tech in Electronics and Communication Engineering. I'm currently a Research Intern at the [Robotics Research Center, IIIT Hyderabad](https://robotics.iiit.ac.in/), advised by [Dr. Spandan Roy](https://scholar.google.com/citations?user=tUKoUgMAAAAJ&hl=en).
+I'm a recent graduate of [MIT-WPU](https://mitwpu.edu.in/), Pune, with a B.Tech in Electronics and Communication Engineering, and currently a Research Intern at the [Robotics Research Center, IIIT Hyderabad](https://robotics.iiit.ac.in/), advised by [Dr. Spandan Roy](https://scholar.google.com/citations?user=tUKoUgMAAAAJ&hl=en). What draws me to robotics is how effortlessly humans manipulate objects by feel, and I want to give robots that same ability. My research asks what a robot can infer about its physical interaction with objects, contact states, geometry, and spatial relationships, from nothing more than RGB cameras and proprioception. Right now I'm working on contact estimation as a pseudo-tactile signal for dexterous manipulation, and on grasping policies that stay reliable under uncalibrated camera viewpoints. I'm also drawn to aerial manipulation, essentially manipulation without a fixed base, where a floating, moving platform makes grasping demand a whole new level of precision and control.
 
-What draws me to robotics is how effortlessly humans manipulate objects by feel. We sense contact, adjust our grip, and turn things over in our hands without ever looking, and I want to understand how robots can do the same. My research looks at what a robot can infer about its physical interaction with objects, things like contact states, geometry, and spatial relationships, from nothing more than RGB cameras and proprioception, and how that understanding can lead to better manipulation on real hardware.
+Before this, I competed in ABU Robocon, where I led my [team](https://www.youtube.com/watch?v=9kkgwjXrWwE) in designing and building complete competition robots from scratch each season, across mechanical design, custom electronics, firmware, motor control, and autonomy.
 
-Right now I'm working on contact estimation as a pseudo-tactile signal for dexterous manipulation, and on grasping policies that stay reliable even when the camera viewpoint is uncalibrated, both tested on physical robots.
-
-I'm also increasingly drawn to aerial manipulation, which is essentially manipulation without a fixed base. When the platform itself is floating and moving, grasping demands a whole new level of precision and control, and I find that challenge fascinating.
-
-Always happy to collaborate or talk robotics. Feel free to reach out over email.
+Outside of research, I read books, shoot urban-wildlife photography, run the occasional marathon, and am an amateur audiophile.
