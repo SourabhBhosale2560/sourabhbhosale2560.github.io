@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-AnyViewDex, on view-invariant dexterous manipulation from RGB observations, is on arXiv. [website](https://anyviewdex.github.io/) · [arXiv](https://arxiv.org/abs/2609.20107)
+AnyViewDex, on view-invariant dexterous manipulation from RGB observations, is on arXiv.
+[website](https://anyviewdex.github.io/) · [arXiv](https://arxiv.org/abs/2609.20107)
