@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-09-16 12:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+AnyViewDex, on view-invariant dexterous manipulation from RGB observations, is on arXiv. [website](https://anyviewdex.github.io/) · [arXiv](https://arxiv.org/abs/2609.20107)

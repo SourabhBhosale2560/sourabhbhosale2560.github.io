@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-06-16 12:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+NoContactNoWorries is accepted at IROS 2026. [website](https://soham2560.github.io/no-contact-no-worries/) · [arXiv](https://arxiv.org/abs/2606.24450)
